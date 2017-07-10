@@ -2,3 +2,6 @@
 .DS_Store
 capture
 .ipynb_checkpoints/
+*.geojson
+*.zip
+data/Census_GIS_Maps
